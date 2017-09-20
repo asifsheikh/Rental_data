@@ -1,0 +1,338 @@
+		Agarkar Nagar
+		Akurdi
+		Alandi
+		Alandi Road
+		Alandi-Markal Road
+		Alephata
+		Ambarwet
+		Ambavane
+		Ambegaon Budruk
+		Anand Nagar
+		Ashok Nagar
+		Ashtapur
+		Aundh
+		Aundh Road
+		Awhalwadi
+		Bahul
+		Bajirao Road
+		Bakori
+		Balaji Nagar
+		Balewadi
+		Baner
+		Baner Pashan Link Road
+		Baramati
+		Bavdhan
+		Bhaginghar
+		Bhawani Peth
+		Bhekrai Nagar
+		Bhilarewadi
+		Bhoirwadi
+		Bhor
+		Bhosale Nagar
+		Bhosari
+		Bhugaon
+		Bhukum
+		Bhusari Colony
+		Bibwewadi
+		Boat Club Road
+		Bope
+		Bopgaon
+		Bopkhel
+		Bopodi
+		Boripardhi
+		BT Kawade Road
+		Budhwar Peth
+		Bund Garden Road
+		Camp
+		Chakan
+		Chandan Nagar
+		Chandani Chowk
+		Chande
+		Chandkhed
+		Charholi Budruk
+		Charholi Khurd
+		Chikhali
+		Chimbali
+		Chinchwad
+		Chourainagar
+		Dapodi
+		Dattavadi
+		Daund
+		Deccan Gymkhana
+		Dehu
+		Dehu Road
+		Dhangarwadi
+		Dhankawadi
+		Dhanore
+		Dhanori
+		Dhayari
+		Dighi
+		Dive
+		Donaje
+		Erandwane
+		Fatima Nagar
+		FC Road
+		Fursungi
+		Gahunje
+		Ganesh Nagar
+		Ganesh Peth
+		Ganeshkhind
+		Ganga Dham
+		Ghorpadi
+		Ghotawade
+		Gokhale Nagar
+		Gudhe
+		Gultekdi
+				Guru Nanak Nagar
+		Guruwar Peth
+		Hadapsar
+		Handewadi
+		Handewadi Road
+		Hingne Khurd
+		Hinjawadi Phase I
+		Hinjewadi
+		Holewadi
+		Ideal Colony
+		Indapur
+		Indira Nagar
+		Induri
+		Ingale Nagar
+		J M Road
+		Jalochi
+		Jambhul
+		Jejuri
+		Junnar
+		Kalas
+		Kalewadi
+		Kalyani Nagar
+		Kamshet
+		Kanhe
+		Kanhur Mesai
+		Karmoli
+		Karve Road
+		Karvenagar
+		Kasar Amboli
+		Kasarsai
+		Kasarwadi
+		Kasba peth
+		Katraj
+		Katraj Kondhwa Road
+		Kavade Mala
+		Kelawade
+		Keshav Nagar
+		Kesnand
+		Ketkawale
+		Khadakwasla
+		Khadki
+		Khamundi
+		Kharadi
+		Kharadi Bypass Road
+		Khed
+		Khed Shivapur
+		Kirkatwadi
+		Kiwale
+		Kodawadi
+		Kolhewadi
+		Kolvan
+		Kolwadi
+		Kondanpur
+		Kondhapuri
+		Kondhawe Dhawade
+		Kondhwa
+		Kondhwa
+		Kondhwa Budruk
+		Koregaon
+		Koregaon Bhima
+		Koregaon Park
+		Kothrud
+		Kurkumbh
+		Landewadi
+		Lavale
+		Lavasa
+		Law College Road
+		Lohagad
+		Lohegaon
+		Lokamanya Nagar
+		Loni Kalbhor
+		Lonikand
+		Lulla Nagar
+		Maan
+		Magarpatta
+		Magarpatta Road
+		Mahalunge
+		Mahalunge Ingale
+		Mahatma Phule Peth
+		Mahrashi Nagar
+		Malegaon
+		Malshiras
+		Mamurdi
+		Manchar
+		Mandai
+				Mangalwar Peth
+		Manjri
+		Markal
+		Market yard
+		Marunji
+		Medankarwadi
+		MG Road
+		Misalwadi
+		MIT Collage Road
+		Model colony
+		Mohammadwadi
+		Mohari BK
+		Morgaon
+		Moshi
+		Moshi Pradhikaran
+		Mukund Nagar
+		Mulshi
+		Mumbai-Pune Expressway
+		Mundhwa
+		Mundhwa Road
+		Nagar Road
+		Nande
+		Nanded
+		Nanekarwadi
+		Narayan peth
+		Narayangaon
+		Narayanpur
+		Narhe
+		Nasrapur
+		Nasrapur Velha Road
+		NDA Road
+		Nerhe
+		NIBM
+		NIBM Annexe 
+		NIBM Road
+		Nigdi
+		Nighoje
+		Nimgaon Mhalungi
+		Old Mumbai Pune Highway
+		Padmavati
+		Padvi
+		Panshet
+		Pargaon
+		Parner Pune Highway
+		Parvati Darshan
+		Parvati Gaon
+		Pashan
+		Pashan Sus Road
+		Paud
+		Paud Road
+		Pawna Nagar
+		Pimpalgaon Tarf Khed
+		Pimple Gurav
+		Pimple Nilakh
+		Pimple Saudagar
+		Pimpri
+		Pimpri Chinchwad
+		Pingori
+		Pirangut
+		Pisoli
+		Prabhat Road
+		Pradhikaran
+		Punawale
+		Pune Cantonment
+		Pune Sholapur Road
+		Pune-Nashik Highway
+		Purandar
+		Rahatani
+		Rajgurunagar
+		Rambaug Colony
+		Ramtekdi
+		Range Hills
+		Ranjangaon
+		Ranjangaon Karanjawane Road
+		Rasta Peth
+		Ravet
+		Raviwar Peth
+		Revenue Colony
+		Rihe
+		Sadashiv peth
+		Sahakar Nagar
+		Sainath Nagar
+		Salisbury Park
+		Salunke Vihar
+		Sanaswadi
+				Sangamvadi
+		Sanghavi
+		Sangvi
+		Sanjay Park
+		Sarola
+		Sasane Nagar
+		Saswad
+		Saswad Road
+		Satara Road
+		Sate
+		Senapati Bapat Road
+		Shaniwar Peth
+		Shankar shet road
+		Shastri Nagar
+		Shetphal Haveli
+		Shewalwadi
+		Shikrapur
+		Shindaone
+		Shirgaon
+		Shiroli
+		Shirur
+		Shirwal
+		Shivajinagar
+		Shivane
+		Shreehans Nagar
+		Shukrawar Peth
+		Sinhagad
+		Sinhagad Road
+		Somatane
+		Somatne Phata
+		Somwar Peth
+		Sonde Karla
+		Sopan Baug
+		Spine Road
+		Sukh Sagar Nagar
+		Sus
+		Swargate
+		Talawade
+		Talegaon Dabhade
+		Talegaon Dhamdhere
+		Taljai
+		Tambhad
+		Tathawade
+		Thergaon
+		Theur
+		Tilak Road
+		Tingre Nagar
+		Uday Baug
+		Undri
+		University Road
+		Uravade
+		Uruli Devachi
+		Uruli Kanchan
+		Uttam Nagar
+		Vadgaon Budruk
+		Vadgaon Maval
+		Vadhu Budruk
+		Valane
+		Veerabhadra Nagar
+		Velhe
+		Vidyanagar
+		Viman Nagar
+		Vishrant Wadi
+		Vithalwadi
+		Wadaki
+		Wadebolai
+		Wadegaon
+		Wadgaon Budruk
+		Wadgaon Sheri
+		Wadki
+		Wagholi
+		Wai
+		Wakad
+		Wakadewadi
+		Walhe
+		Walvekar Nagar
+		Wanwadi
+		Warje
+		Yashvant Nagar
+		Yavat
+		Yerwada
+		Yewalewadi
+		
